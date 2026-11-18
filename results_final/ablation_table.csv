@@ -1,0 +1,5 @@
+method,avg_wait_s_mean,avg_wait_s_std,avg_queue_mean,avg_queue_std,veh_served_per_hr_mean,veh_served_per_hr_std,throughput_ratio_mean,throughput_ratio_std,switches_mean,switches_std
+Abl_noDouble,53.977,7.418,11.244,1.676,1935.241,20.527,0.973,0.006,131.233,11.82
+Abl_noDueling,51.339,6.904,10.662,1.656,1952.308,8.887,0.978,0.002,139.473,17.948
+Abl_noPER,46.286,1.717,9.419,0.379,1963.464,3.528,0.981,0.001,130.801,9.009
+D3QN_PER,52.324,3.752,10.807,0.838,1946.736,6.726,0.976,0.002,133.505,9.34
